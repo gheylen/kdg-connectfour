@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="README.txt" open="0" top="0" tabpos="0">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="ai.c" open="1" top="0" tabpos="1">
+		<Cursor position="4775" topLine="79" />
+	</File>
+	<File name="ai.h" open="0" top="0" tabpos="12">
+		<Cursor position="973" topLine="0" />
+	</File>
+	<File name="board.c" open="0" top="0" tabpos="7">
+		<Cursor position="2809" topLine="105" />
+	</File>
+	<File name="board.h" open="0" top="0" tabpos="8">
+		<Cursor position="926" topLine="0" />
+	</File>
+	<File name="color.h" open="1" top="0" tabpos="2">
+		<Cursor position="1259" topLine="6" />
+	</File>
+	<File name="console.c" open="0" top="0" tabpos="13">
+		<Cursor position="4387" topLine="34" />
+	</File>
+	<File name="console.h" open="0" top="0" tabpos="14">
+		<Cursor position="927" topLine="23" />
+	</File>
+	<File name="game.c" open="0" top="0" tabpos="3">
+		<Cursor position="3432" topLine="107" />
+	</File>
+	<File name="game.h" open="0" top="0" tabpos="4">
+		<Cursor position="1133" topLine="0" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="1">
+		<Cursor position="2363" topLine="52" />
+	</File>
+	<File name="main.h" open="0" top="0" tabpos="2">
+		<Cursor position="840" topLine="0" />
+	</File>
+	<File name="menu.c" open="0" top="0" tabpos="9">
+		<Cursor position="1685" topLine="60" />
+	</File>
+	<File name="menu.h" open="0" top="0" tabpos="10">
+		<Cursor position="830" topLine="0" />
+	</File>
+	<File name="player.c" open="1" top="1" tabpos="4">
+		<Cursor position="3139" topLine="58" />
+	</File>
+	<File name="player.h" open="0" top="0" tabpos="6">
+		<Cursor position="943" topLine="0" />
+	</File>
+	<File name="random.c" open="1" top="0" tabpos="3">
+		<Cursor position="1109" topLine="6" />
+	</File>
+	<File name="random.h" open="0" top="0" tabpos="17">
+		<Cursor position="837" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,7 @@
+#ifndef _SHORTCOLOURS_H
+#define _SHORTCOLOURS_H
+
+#define YELLOW FOREGROUND_RED | FOREGROUND_GREEN
+#define RESET 0
+
+#endif
